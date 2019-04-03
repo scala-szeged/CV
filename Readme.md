@@ -1,3 +1,3 @@
 Please open the individual CV files below:
 
-Janos Seteny
+CV of Janos Seteny
