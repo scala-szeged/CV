@@ -1,4 +1,4 @@
-Please open the individual CV files below:
+Please use the direct links below.
 
-[CV of Janos Seteny](CV&#32;of&#32;Janos&#32;Seteny.pdf)  
-[Detailed CV of Janos Seteny](Detailed&#32;CV&#32;of&#32;Janos&#32;Seteny.pdf)
+[CV of Janos Seteny](https://github.com/scala-szeged/CV/raw/master/CV%20of%20Janos%20Seteny.pdf)  
+[Detailed CV of Janos Seteny](https://github.com/scala-szeged/CV/raw/master/Detailed%20CV%20of%20Janos%20Seteny.pdf)
